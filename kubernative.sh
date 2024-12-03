@@ -1,4 +1,4 @@
- 1) how to install minicube
+# 1) how to install minicube
 
 wget https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
 
